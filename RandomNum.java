@@ -14,7 +14,9 @@ public class RandNum {
     
     public static void main(String[] args) {
 	//initalise variables
+	int theNum;
 	
+	theNum = (int)(Math.random() * 100);
 	//use while loop with counter and answer variables
     }
 }
